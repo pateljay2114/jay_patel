@@ -1,0 +1,21 @@
+ What is Software? 
+==> Software is a set of computer programs and associated documentation and data.
+
+ What are the types of Applications?
+==> Word Processing Software. 
+    Spreadsheet Software. 
+    Presentation Software. 
+    Multimedia Software. 
+    Web Browsers. 
+    Educational Software.
+    Graphics Software.
+    Freeware.
+
+ What is programing?
+==> A programing is a list of instructions that is executed bya computer to accomplish a particular task.
+
+ What is programing?
+==> Python is a interpreted object oriented higher lavel most popular programing language.
+  Using of python We can build a web application, deskopt application,we can bulid carrer in Data science, Data analytics, machine learning, artificial intelligence.
+  
+  designed by guido van Rossum in 1991 and  devloped by python software foundation.
