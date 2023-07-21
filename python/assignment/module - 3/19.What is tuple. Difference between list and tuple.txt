@@ -1,0 +1,18 @@
+# What is tuple? Difference between list and tuple.
+
+Ans. - Tuple is a collection data type and which contain similar and dis-similar data element but which is represented by () braces
+
+-> Difference between list and tuple
+
+ => list is a collection data type which is contain similar and dis-similar data element
+   list which is represent by [] braces when tuple is a collection data type and which contain similar and dis similar 
+   data element but which is represented by () braces
+
+=> list which is mutable (we can change it value )   - we can perfom append , insert , remove all opretions but same way 
+
+=>  tuple is a inmutable ( we can't change it value ) - we can't perfom appond , insert , remove all opretions but same way
+
+
+=>  list is slower than tuple 
+
+    and tuple is faster than list 
