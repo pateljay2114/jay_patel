@@ -1,0 +1,21 @@
+driver_id,driver_name,fare,journey,driver_otp,driver_date,available_vehicle,customer_id,customer_name,customer_otp,journey
+212,umang,300,vashna-sola,2211,"2001-07-12 12:04:33","available ",545,abhay,2211,vashna-sola
+552,himesh,600,nikol-vashna,2213,"2005-09-13 06:12:22","available ",456,avi,2213,nikol-vashna
+232,abhy,500,sola-naroda,3344,"2003-06-22 12:09:00","available ",655,nikunj,3344,sola-naroda
+420,avi,400,naroda-nikol,3345,"2004-02-18 07:24:33","available ",985,ajay,3345,naroda-nikol
+120,deep,200,"sola-law garden ",4455,"2002-06-11 11:10:22","not available ",845,tappu,4455,"sola-law garden "
+642,"hardik ",300,naroda-sola,4459,"2007-09-12 12:00:00","available ",326,keval,4459,naroda-sola
+121,jil,500,"law garden - nikol",4466,"2001-07-13 12:30:12","available ",754,goli,4466,"law garden - nikol"
+334,dipak,300,naroda-nikol,4467,"2004-06-22 04:12:44","available ",642,nikul,4467,naroda-nikol
+111,jitu,500,naroda-nikol,4545,"2001-06-12 12:15:00","available ",111,tarak,4545,naroda-nikol
+222,jigar,400,soal-vashna,5522,"2001-08-13 01:12:33","not available ",985,ketan,5522,soal-vashna
+767,pranav,800,naroda-sola,5562,"2003-03-23 02:12:13","not available ",452,anish,5562,naroda-sola
+555,chirag,500,naroda-nikol,5564,"2007-05-14 09:12:12","available ",564,abhi,5564,naroda-nikol
+342,meet,500,sola-vashna,5578,"2005-04-12 12:33:55","available ",955,kamlesh,5578,sola-vashna
+245,yes,333,bapunagar-maninadar,5588,"2002-08-12 12:09:33","available ",941,kirit,5588,bapunagar-maninadar
+233,kishan,300,naroda-nikol,5599,"2003-09-11 12:09:00","available ",654,jayraj,5599,naroda-nikol
+323,umesh,444,maninagar-gota,6644,"2003-08-13 01:12:13","available ",554,binal,6644,maninagar-gota
+540,jay,500,sola-nikol,6649,"2004-09-23 04:23:44","not available ",789,hardik,6649,sola-nikol
+112,abhi,450,naroda-nikol,7070,"2001-06-13 12:03:01","available ",356,jetha,7070,naroda-nikol
+443,ravi,300,nikol-naroda,7756,"2004-03-15 09:05:14","available ",321,keyur,7756,nikol-naroda
+600,harsh,400,"baroda-Godhra ",8846,"2005-06-20 12:09:45","available ",897,visha,8846,"baroda-Godhra "
